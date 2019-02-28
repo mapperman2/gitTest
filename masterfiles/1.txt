@@ -1,1 +1,2 @@
 Hello, this is first file in master
+modifed content of the files second commit
